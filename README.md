@@ -1,4 +1,6 @@
-# Frontend Mentor Challenges
+# Welcome 🙌
+
+## Frontend Mentor Challenges
 
 This is a repo of Frontend Mentor challenges I complete successfully
 
@@ -8,7 +10,7 @@ This is a repo of Frontend Mentor challenges I complete successfully
 |[Intro-Component](https://github.com/simeon4real/Frontend-Mentor/tree/master/intro-component-sign-up)| ✅|  [View Solution on FM](https://www.frontendmentor.io/solutions/sass-html5-npm-2mhsUOnR) |
 
 
-## Live Preview Of My Solutions: 👇
+### Live Preview Of My Solutions: 👇
 
 1. Fylo Landing Page with CSS3 Grid, Flexbox and Sass!
 View [Solution 01](https://simeon4real.github.io/fylo/) 📌
