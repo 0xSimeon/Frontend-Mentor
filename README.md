@@ -2,7 +2,7 @@
 
 ## Frontend Mentor Challenges
 
-This is a repo of Frontend Mentor challenges I complete successfully
+This is a repo of Frontend Mentor challenges I take
 
 |Challenges:|Status |Leave Feedback|
 |:----------|:------:|:--------------:|
