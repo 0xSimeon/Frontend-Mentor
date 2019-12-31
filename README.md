@@ -2,10 +2,10 @@
 
 This is a repo of Frontend Mentor challenges I complete successfully
 
-|Challenges:|Status |
-|:----------|:------|
-|[Fylo](https://github.com/simeon4real/Frontend-Mentor/tree/master/fylo)| ✅| 
-|[Intro-Component](https://github.com/simeon4real/Frontend-Mentor/tree/master/intro-component-sign-up)| ✅| 
+|Challenges:|Status |Leave Feedback|
+|:----------|:------:|:--------------:|
+|[Fylo](https://github.com/simeon4real/Frontend-Mentor/tree/master/fylo)| ✅| [View Solution on FM](https://www.frontendmentor.io/solutions/fylo-landing-page-using-css-grid-flexbox-sass-and-bem-NA0JyxIH) |
+|[Intro-Component](https://github.com/simeon4real/Frontend-Mentor/tree/master/intro-component-sign-up)| ✅|  [View Solution on FM](https://www.frontendmentor.io/solutions/sass-html5-npm-2mhsUOnR) |
 
 
 ## Live Preview Of My Solutions: 👇
