@@ -11,7 +11,7 @@ This is a repo of Frontend Mentor challenges I take
 |[Huddle](https://github.com/simeon4real/Frontend-Mentor/tree/master/Huddle) | ✅ | [View Solution on FM](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-css3-flexbox-and-bem-oEeKHXYb) |
 
 
-https://github.com/simeon4real/Frontend-Mentor/tree/master/Huddle
+
 
 ### Live Preview Of My Solutions: 👇
 
