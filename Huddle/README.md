@@ -1,7 +1,7 @@
 
 # <center> Hey 🙂, Welcome! 👋</center>
 
-## <center>Fylo Landing Page Challenge Completed ✔</center>
+## <center>Huddle Landing Page Challenge Completed ✔</center>
 
 ### Desktop view 👇: 
 
