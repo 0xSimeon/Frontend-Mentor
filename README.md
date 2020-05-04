@@ -19,7 +19,7 @@ This is a repo containing all Frontend Mentor challenges I take
 View [Solution 01](https://simeon4real.github.io/fylo/) 🚀
 
 2. Intro Component landing page (Two column layout) &mdash; CSS3 Grid, Flexbox and Sass!
-View [Solution 02](https://simeon4real.github.io/Frontendmentor-challenge/) 🚀
+View [Solution 02](https://simeon4real.github.io/Frontend-Mentor/intro-component-sign-up/) 🚀
 
 3. Huddle Landing Page with CSS3, Flexbox and BEM !
 View [Solution 03](https://simeon4real.github.io/Frontend-Mentor/Huddle/index.html) 🚀
