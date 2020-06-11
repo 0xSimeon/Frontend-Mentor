@@ -2,13 +2,13 @@
 
 ## Frontend Mentor Challenges
 
-This is a repo containing all Frontend Mentor challenges I take
+This is a repo containing all Frontend Mentor challenges I take.
 
-|Challenges:|Status |Leave Feedback|
-|:----------|:------:|:--------------:|
-|[Fylo](https://github.com/simeon4real/Frontend-Mentor/tree/master/fylo)| ✅| [View Solution on FM](https://www.frontendmentor.io/solutions/fylo-landing-page-using-css-grid-flexbox-sass-and-bem-NA0JyxIH) |
-|[Intro-Component](https://github.com/simeon4real/Frontend-Mentor/tree/master/intro-component-sign-up)| ✅|  [View Solution on FM](https://www.frontendmentor.io/solutions/sass-html5-npm-2mhsUOnR) |
-|[Huddle](https://github.com/simeon4real/Frontend-Mentor/tree/master/Huddle) | ✅ | [View Solution on FM](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-css3-flexbox-and-bem-oEeKHXYb) |
+|Repo link |Status |Leave Feedback| LIVE Link  |
+|:----------|:------:|:--------------:| :--------------:|
+|[Fylo](https://github.com/simeon4real/FrontendMentor-Fylo)| ✅| [View Solution on FM](https://www.frontendmentor.io/solutions/fylo-landing-page-using-css-grid-flexbox-sass-and-bem-NA0JyxIH) | [View Now 🚀](https://fylo-frontendmentor.netlify.app/)
+|[Intro-Component](https://github.com/simeon4real/FrontendMentor-Intro-Component)| ✅|  [View Solution on FM](https://www.frontendmentor.io/solutions/sass-html5-npm-2mhsUOnR) |  [View Now 🚀](https://intro-landing-frontendmentor.netlify.app/)
+|[Huddle](https://github.com/simeon4real/FrontendMentor-Huddle) | ✅ | [View Solution on FM](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-css3-flexbox-and-bem-oEeKHXYb) | [View Now 🚀](https://huddle-frontendmentor.netlify.app/)
 
 
 
@@ -16,13 +16,13 @@ This is a repo containing all Frontend Mentor challenges I take
 ### Live Preview Of My Solutions: 👇
 
 1. Fylo Landing Page with CSS3 Grid, Flexbox and Sass!
-View [Solution 01](https://simeon4real.github.io/fylo/) 🚀
+View [Solution 01](https://fylo-frontendmentor.netlify.app/) 🚀
 
 2. Intro Component landing page (Two column layout) &mdash; CSS3 Grid, Flexbox and Sass!
-View [Solution 02](https://simeon4real.github.io/Frontend-Mentor/intro-component-sign-up/) 🚀
+View [Solution 02](https://huddle-frontendmentor.netlify.app/) 🚀
 
 3. Huddle Landing Page with CSS3, Flexbox and BEM !
-View [Solution 03](https://simeon4real.github.io/Frontend-Mentor/Huddle/index.html) 🚀
+View [Solution 03](https://intro-landing-frontendmentor.netlify.app/) 🚀
 
 
 
